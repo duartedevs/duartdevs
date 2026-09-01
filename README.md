@@ -38,5 +38,5 @@ Sou apaixonado por transformar dados brutos em insights estratégicos e criar so
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn]()
+[![LinkedIn](https://www.linkedin.com/in/gustavo-duarte09/)
 [![Email](gustavooduartee@outllok.com)
